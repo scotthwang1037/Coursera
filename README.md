@@ -1,2 +1,2 @@
-# Introduction to Data Scirence in Python - Coursera
+# Coursera
  Applied Data Science with Python Specialization
